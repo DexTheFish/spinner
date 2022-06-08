@@ -1,3 +1,5 @@
+// spinner 2 version 1
+
 let numberOfCycles = 4;
 let cycle = ['\r|   ', '\r/   ', '\r-   ', '\r\\   ', '\r\|   ', '\r/   ', '\r-   ', '\r\\   '];
 

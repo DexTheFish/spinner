@@ -1,4 +1,4 @@
-let numberOfCycles = 5;
+let numberOfCycles = 4;
 let cycle = ['\r|   ', '\r/   ', '\r-   ', '\r\\   ', '\r\|   ', '\r/   ', '\r-   ', '\r\\   '];
 
 for (let i = 0; i < 8 * numberOfCycles + 1; i++) {
